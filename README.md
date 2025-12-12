@@ -24,3 +24,7 @@ Algoritma yang digunakan adalah backtracking yang dipandu heuristik Warnsdorff d
 - Untuk closed tour, setelah langkah ke-64 dicek apakah posisi terakhir masih satu langkah kuda dari petak awal.
   
 Jika suatu jalur buntu sebelum semua petak terkunjungi, program melakukan backtracking dan mencoba alternatif jalur yang lain.
+
+## Largest Monotonically Increasing Subsequence (LMIS), yang bertujuan untuk menemukan subsekuens terbesar yang memiliki elemen-elemen yang terurut secara monoton naik.
+
+
